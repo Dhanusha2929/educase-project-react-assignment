@@ -3,7 +3,6 @@
 ## 📌 Overview
 This is a simple React-based web application that includes a **Welcome Page**, **Login Page**, **Create Account Page**, and a **Profile Page**. The project demonstrates basic frontend routing and user authentication flow UI using React.
 
----
 
 ## ✨ Features
 
@@ -14,7 +13,7 @@ This is a simple React-based web application that includes a **Welcome Page**, *
 - 🔄 Simple navigation between pages using React Router
 - 📱 Responsive and clean UI design
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +22,7 @@ This is a simple React-based web application that includes a **Welcome Page**, *
 - HTML5 & CSS3
 - JavaScript (ES6+)
 
----
+
 
 ## 📂 Project Structure
 src/
@@ -36,6 +35,7 @@ src/
 │── App.js
 │── index.js
 │── App.css
+
 
 ## 🔑 Workflow
   - User lands on Welcome Page
