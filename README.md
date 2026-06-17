@@ -23,20 +23,6 @@ This is a simple React-based web application that includes a **Welcome Page**, *
 - JavaScript (ES6+)
 
 
-
-## 📂 Project Structure
-src/
-│── components/
-│ ├── Welcome.js
-│ ├── Login.js
-│ ├── Signup.js
-│ └── Profile.js
-│
-│── App.js
-│── index.js
-│── App.css
-
-
 ## 🔑 Workflow
   - User lands on Welcome Page
   - Chooses either Login or Create Account
